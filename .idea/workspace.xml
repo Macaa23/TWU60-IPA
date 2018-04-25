@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe5c2c64-f170-4adc-bbdf-a35c043ba9c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe5c2c64-f170-4adc-bbdf-a35c043ba9c3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,39 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="TriangleExercises.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TriangleExercises.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="73" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="73" />
-              <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiamondExcercises.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DiamondExcercises.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FizzBuzzExcercise.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FizzBuzzExcercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzzExcercise">
+  <component name="RunManager" selected="Application.PrimeFactorsExercise">
     <configuration name="DiamondExcercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondExcercises" />
       <module name="TWU60-IPA" />
@@ -117,6 +83,11 @@
     </configuration>
     <configuration name="FizzBuzzExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzzExcercise" />
+      <module name="TWU60-IPA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PrimeFactorsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeFactorsExercise" />
       <module name="TWU60-IPA" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -170,9 +141,11 @@
       <item itemvalue="Application.TriangleExercises" />
       <item itemvalue="Application.DiamondExcercises" />
       <item itemvalue="Application.FizzBuzzExcercise" />
+      <item itemvalue="Application.PrimeFactorsExercise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeFactorsExercise" />
         <item itemvalue="Application.FizzBuzzExcercise" />
         <item itemvalue="Application.DiamondExcercises" />
         <item itemvalue="Application.TriangleExercises" />
@@ -194,7 +167,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="22" width="1625" height="1028" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -249,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FizzBuzzExcercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
