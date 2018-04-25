@@ -1,0 +1,25 @@
+public class FizzBuzzExcercise {
+
+    public static void main (String[] args){
+
+        FizzBuzzExcercise fizzBuzzExcercise = new FizzBuzzExcercise();
+        fizzBuzzExcercise.FizzBuzz();
+    }
+
+    public void FizzBuzz(){
+        for(int i = 1 ; i <= 100; i++){
+
+            if(i%3 == 0){
+                System.out.print("Fizz");
+            }
+
+            if(i%5 == 0){
+                System.out.print("Buzz");
+            }else if( i%3 != 0 && i%5 != 0){
+                System.out.print(i);
+            }
+
+            System.out.println();
+        }
+    }
+}
